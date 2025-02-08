@@ -10,7 +10,7 @@ user-centric solutions and optimizing technical workflows.
   development skills, and explore the possibilities of cloud computing.
 - :memo: I try to share my insights and experiences through articles on LinkedIn
   about
-  JavaScript.[Check out my profile](<[URL_1](https://www.linkedin.com/in/rahaf-zourob-bb7588302/)>)
+  JavaScript.[Check out my profile](https://www.linkedin.com/in/rahaf-zourob-bb7588302/)
   for my latest musings!
 
 ## Personal interests
