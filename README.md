@@ -7,10 +7,10 @@ user-centric solutions and optimizing technical workflows.
 - :telescope: Right now, I am immersed in my graduation project, pouring my
   creativity and skills into it.
 - :seedling: I'm on a journey to master JavaScript, enhance my front-end
-  development skills, and explore the possibilities of cloud computing.
+  development skills, and gain deeper insights into system analysis.
 - :memo: I try to share my insights and experiences through articles on LinkedIn
-  about
-  JavaScript.[Check out my profile](https://www.linkedin.com/in/rahaf-zourob-bb7588302/)
+  about JavaScript.
+  [Check out my profile](https://www.linkedin.com/in/rahaf-zourob-bb7588302/)
   for my latest musings!
 
 ## Personal interests
