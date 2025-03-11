@@ -11,9 +11,3 @@ user-centric solutions and optimizing technical workflows.
 - :memo: I try to share my insights and experiences through articles on Medium
   about JavaScript. [Check out my profile](https://medium.com/@zourobrahaf) for
   my latest musings!
-
-## Personal interests
-
-- :pencil: Journaling
-- :art: Coloring
-- :bulb: Entrepreneurship
